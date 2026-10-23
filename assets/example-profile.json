@@ -1,0 +1,107 @@
+{
+  "name": "示例候选人",
+  "language": "zh",
+  "target_role": "Java 后端开发",
+  "contacts": [
+    "邮箱：example@example.com",
+    "作品集：https://example.com/portfolio"
+  ],
+  "summary": [
+    "本文件为虚构演示，学校、公司、项目及经历仅用于测试新版排版与经历表达。"
+  ],
+  "sections": [
+    {
+      "kind": "education",
+      "title": "教育背景",
+      "entries": [
+        {
+          "heading": "示例大学",
+          "detail": "软件工程 · 本科在读",
+          "date": "2023.09 - 2027.06（预计）"
+        }
+      ]
+    },
+    {
+      "kind": "skills",
+      "title": "技术栈",
+      "entries": [
+        {
+          "heading": "Java 与后端框架",
+          "detail": "使用 Java、Spring Boot 与 MyBatis 完成课程及实习中的接口开发、参数校验与数据访问。",
+          "emphasis": [
+            "Java",
+            "Spring Boot",
+            "MyBatis"
+          ]
+        },
+        {
+          "heading": "数据库与开发工具",
+          "detail": "使用 MySQL 设计业务表与编写查询；使用 Git 管理代码，使用 Postman 验证接口请求与响应。",
+          "emphasis": [
+            "MySQL",
+            "Git",
+            "Postman"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "projects",
+      "title": "项目经历",
+      "entries": [
+        {
+          "heading": "校园图书借阅管理系统",
+          "detail": "课程项目 · 后端开发",
+          "date": "2026.03 - 2026.06",
+          "paragraphs": [
+            "面向课程中的图书借阅业务，参与完成图书检索、借阅登记与归还管理功能，个人负责借阅记录接口及数据访问逻辑。使用 Spring Boot 与 MyBatis 组织后端实现，在 MySQL 中维护图书、读者与借阅记录之间的关联。",
+            "围绕重复借阅和无效记录补充参数校验与异常响应，使用 Postman 验证正常及异常请求；整理接口说明并参与小组演示，交付可运行的课程系统与实验报告。"
+          ],
+          "emphasis": [
+            "借阅记录接口",
+            "Spring Boot",
+            "MyBatis",
+            "MySQL",
+            "参数校验",
+            "Postman"
+          ]
+        },
+        {
+          "heading": "周报数据查询工具",
+          "detail": "个人练习项目",
+          "date": "2026.01 - 2026.02",
+          "bullets": [
+            "针对本地样例订单数据，使用 Java 和 MySQL 实现按日期、产品类别筛选与分组统计，提供分页查询与汇总结果。",
+            "整理样例数据及查询条件，比较不同筛选组合的返回结果，记录边界用例和运行步骤，形成可复现的练习代码与说明文档。"
+          ],
+          "emphasis": [
+            "Java",
+            "MySQL",
+            "分页查询",
+            "边界用例"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "experience",
+      "title": "实习经历",
+      "entries": [
+        {
+          "heading": "示例软件公司",
+          "detail": "后端开发实习生",
+          "date": "2026.07 - 2026.09",
+          "paragraphs": [
+            "参与用户权限模块的后端开发，使用 Spring Boot 与 MyBatis 实现角色、权限关联及分页查询接口，补充重复关联校验与异常返回。配合前端完成接口联调，整理接口参数和使用说明，支持权限配置功能的验证与交付。"
+          ],
+          "emphasis": [
+            "用户权限模块",
+            "Spring Boot",
+            "MyBatis",
+            "接口联调"
+          ]
+        }
+      ]
+    }
+  ]
+}

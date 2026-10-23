@@ -1,0 +1,4 @@
+interface:
+  display_name: "求职简历撰写与完善"
+  short_description: "补问并扩写真实项目实习经历，按参考版式生成规整的 Word 与 PDF 求职简历"
+  default_prompt: "请使用 $resume-builder，先补问并展开我的项目与实习贡献，按参考蓝色版式生成完整、规整的 Word 和 PDF 简历。"

@@ -1,0 +1,20 @@
+{
+  "page_width_mm": 210,
+  "page_height_mm": 297,
+  "side_margin_mm": 12,
+  "top_margin_mm": 10,
+  "bottom_margin_mm": 10,
+  "accent_hex": "244A68",
+  "body_hex": "555555",
+  "name_size_pt": 22,
+  "section_size_pt": 14,
+  "section_rule_pt": 0.75,
+  "body_line_multiplier": 1.35,
+  "body_space_after_pt": 2,
+  "section_space_before_pt": 7,
+  "section_space_after_pt": 5,
+  "entry_space_before_pt": 4,
+  "row_width_fractions": [0.24, 0.52, 0.24],
+  "page_rule_offset_mm": 3,
+  "page_rule_width_pt": 4
+}
